@@ -12,25 +12,6 @@ We've reinvented the metronome, keeping instrumentalists in mind. Using ESP8266s
 
 ---
 
-## 🛠 Where to Document Everything Else
-
-We’ve already created a standard set of [**Wiki pages**](https://github.com/MakersAsylumIndia/Bowl-Buddy/wiki) for your project in this repository — you just need to **update them with your project information**.
-
-Each section is ready with headings like:
-
-- Project Title
-- Problem Statement
-- Bill of Materials (BOM)
-- Solution Overview
-- SDG Goals Associated
-- Circuit & CAD Files
-- Media Gallery
-- License
-
-Please **do not delete the headings** — just replace the placeholder content under each.
-
----
-
 ## License
 
 Licenses
