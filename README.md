@@ -31,7 +31,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 The Team
 
-**Makers**
+# Makers
 
    Arryaman Jain - ajainplays@gmail.com - Arryaman
    
@@ -39,13 +39,13 @@ MIT open source [license](http://opensource.org/licenses/MIT).
    
    Shaurya Chouhan - shaurya.chouhan2008@gmail.com - shauryachouhan
 
-**Alumni Mentors**
+# Alumni Mentors
 
    Hriday Koppikar - hridaykoppikar@gmail.com - HridayKoppikar
    
    Pranit Sanwalka - pranitsinghsanwalka@gmail.com - PranitSinghSanwalka
 
-**Maker Mentors**
+# Maker Mentors
 
    Satyam Shukla - ingenuity.d2i@gmail.com
   
