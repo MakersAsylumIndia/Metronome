@@ -1,12 +1,12 @@
-## 🙋‍♂️ Introduction
+# 🙋‍♂️ Introduction
 
 Welcome to the Vibranome wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. We're a group of 3 people, Arryaman Jain, Aniket Krishna, and Shaurya Chouhan. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
 
-# Problem statement
+## Problem statement
 
 Musicians who are deaf or hard of hearing often face challenges keeping time during rehearsals or live performances, as traditional metronomes rely on auditory cues. Additionally, in loud environments or performances, audio metronomes can disrupt the music or become inaudible. Which creates a need for a more discreet, accessible, and non-auditory solution to maintain tempo without repeated interruptions.
 
-# Our solution
+## Our solution
 
 We've reinvented the metronome, keeping instrumentalists in mind. Using ESP8266s, a couple of basic circuit components, coin motors, and lots of code, we've created and enabled 2 wearable compression bands to function as medium of real-time, synchronised haptics that you can feel directly. The interface that's been programmed on Adafruit.io allows the user to turn on the BPM feature and control what value they want. Both bands are also rechargeable with a type-C cable.
 
@@ -31,7 +31,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 The Team
 
-# Makers
+### Makers
 
    Arryaman Jain - ajainplays@gmail.com - Arryaman
    
@@ -39,13 +39,13 @@ MIT open source [license](http://opensource.org/licenses/MIT).
    
    Shaurya Chouhan - shaurya.chouhan2008@gmail.com - shauryachouhan
 
-# Alumni Mentors
+### Alumni Mentors
 
    Hriday Koppikar - hridaykoppikar@gmail.com - HridayKoppikar
    
    Pranit Sanwalka - pranitsinghsanwalka@gmail.com - PranitSinghSanwalka
 
-# Maker Mentors
+### Maker Mentors
 
    Satyam Shukla - ingenuity.d2i@gmail.com
   
