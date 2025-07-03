@@ -7,18 +7,9 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 ---
 
-## 🧠 What to Do First
+## 🙋‍♂️ Introduction
 
-Start by writing a **brief introduction** to your project right here in this `README.md` file:
-
-🔹 What problem are you solving?  
-🔹 What’s your proposed solution?
-
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
-
-Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
-
-Welcome to the Metronome wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. It is comprised of 3 collaborators, Shaurya Chouhan, Aniket Krishna, and Arryaman Jain. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
+Welcome to the Vibranome wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. It is comprised of 3 collaborators, Shaurya Chouhan, Aniket Krishna, and Arryaman Jain. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
 
 Problem statement
 
