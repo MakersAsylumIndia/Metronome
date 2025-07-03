@@ -34,12 +34,15 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 **Makers**
 
    Arryaman Jain - ajainplays@gmail.com - Arryaman
+   
    Aniket Krishna - aniket.krishna1606@gmail.com - an1krishna
+   
    Shaurya Chouhan - shaurya.chouhan2008@gmail.com - shauryachouhan
 
 **Alumni Mentors**
 
    Hriday Koppikar - hridaykoppikar@gmail.com - HridayKoppikar
+   
    Pranit Sanwalka - pranitsinghsanwalka@gmail.com - PranitSinghSanwalka
 
 **Maker Mentors**
