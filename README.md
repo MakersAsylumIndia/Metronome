@@ -1,12 +1,3 @@
-# 📘 Welcome to the IS Project Documentation Template!
-
-Hey there! 👋
-
-This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
-You’ll be using the **GitHub Wiki** to update all your project details in a structured format.
-
----
-
 ## 🙋‍♂️ Introduction
 
 Welcome to the Vibranome wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. It is comprised of 3 collaborators, Shaurya Chouhan, Aniket Krishna, and Arryaman Jain. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
@@ -40,15 +31,6 @@ Please **do not delete the headings** — just replace the placeholder content u
 
 ---
 
-## 📚 How to Edit the GitHub Wiki Pages
-
-Follow these official GitHub help guides to learn how to edit your Wiki pages:
-
-🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
-🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
-
----
-
 ## License
 
 Licenses
@@ -66,8 +48,21 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ---
 
-## 📬 Contact/Team
+## 📬 The Team
 
-> _List team members and contact emails or GitHub profiles._
+**Makers**
 
+  > Arryaman Jain - ajainplays@gmail.com - Arryaman
+  > Aniket Krishna - aniket.krishna1606@gmail.com - an1krishna
+  > Shaurya Chouhan - shaurya.chouhan2008@gmail.com - shauryachouhan
+
+**Alumni Mentors**
+
+  > Hriday Koppikar - hridaykoppikar@gmail.com - HridayKoppikar
+  > Pranit Sanwalka - pranitsinghsanwalka@gmail.com - PranitSinghSanwalka
+
+**Maker Mentors**
+
+  > Satyam Shukla - ingenuity.d2i@gmail.com
+  
 ---
