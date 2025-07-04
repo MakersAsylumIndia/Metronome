@@ -1,6 +1,6 @@
 # 🙋‍♂️ Introduction
 
-Welcome to the Vibranome wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. We're a group of 3 people, Arryaman Jain, Aniket Krishna, and Shaurya Chouhan. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
+Welcome to the Beet-o-ven wiki! This is Team 23 of the 2025 Maker’s Asylum Summer Innovation School. We're a group of 3 people, Arryaman Jain, Aniket Krishna, and Shaurya Chouhan. Multiple mentors from the team guided us with their knowledge, as well as multiple alumni from the program.
 
 ## Problem statement
 
