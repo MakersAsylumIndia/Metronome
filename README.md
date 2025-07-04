@@ -12,7 +12,7 @@ We've reinvented the metronome, keeping instrumentalists in mind. Using ESP8266s
 
 ---
 
-## License
+## 🪪 License
 
 Licenses
 
